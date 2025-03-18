@@ -1,7 +1,5 @@
-# Terraform In One Shot
-This repository is your one stop solution for Terraform for DevOps Engineers 
 
-# Terraform Commands - Complete Guide
+# Terraform Commands 
 
 ## **1. Setup & Initialization**
 ### **Install Terraform**
@@ -153,18 +151,5 @@ terraform apply 2>&1 | tee debug.log  # Save logs
 
 ---
 
-## Projects
-
-### Terraform with Ansible
-[Get it here](https://github.com/LondheShubham153/terraform-ansible-multi-env)
-
-### Terraform with GitHub
-[Get it here](https://github.com/Amitabh-DevOps/online_shop/tree/github-action/.github/workflows)
-
-### Terraform to EKS
-[Get it here](https://github.com/DevMadhup/Springboot-BankApp/tree/DevOps/Terraform/EKS-Deployment)
-
-## **Final Thoughts**
-This README covers all the Terraform commands needed for your **"Terraform in One Shot"** video. Let me know if you need modifications or extra details! 🚀
 
 
